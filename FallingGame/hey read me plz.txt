@@ -1,0 +1,8 @@
+I'm well aware that this doesn't cover some of the spec, so let’s think of this as a technical test. 
+
+Basically you gain energy by skimming along the ground and supposedly score
+
+WASD - movement
+Enter - restart game
+
+BTW doing 3d in processing probably took five years off my life expectancy so please enjoy :)
